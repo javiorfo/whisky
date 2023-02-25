@@ -30,3 +30,5 @@ do
   let index=indextemp
 done
 
+# xset s off; xset -dpms; xset s noblank;
+# xautolock -time 30 -locker 'systemctl suspend' &
