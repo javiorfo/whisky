@@ -41,6 +41,9 @@
     window_rules: [
         (window_class: "Peek", spawn_floating: true),
     ],
+    scratchpad: [
+        (name: "Alacritty", value: "alacritty", x: 600, y: 290, height: 600, width: 800),
+    ],
     disable_current_tag_swap: false,
     disable_tile_drag: false,
     disable_window_snap: true,
@@ -64,6 +67,7 @@
         (command: FocusWindowDown,        value: "",             modifier: ["modkey"],            key: "k"),
         (command: FocusWindowUp,          value: "",             modifier: ["modkey"],            key: "j"),
         (command: ToggleFloating,         value: "",             modifier: ["modkey", "Shift"],   key: "f"),
+        (command: ToggleScratchPad,       value: "Alacritty",    modifier: ["modkey", "Shift"],   key: "a"),
         (command: ToggleFullScreen,                              modifier: ["modkey"],            key: "space"),
         
         // System
