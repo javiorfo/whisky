@@ -53,7 +53,7 @@
     keybind: [
         // Apps
         (command: Execute,                value: "dmenu_run",    modifier: ["modkey", "Shift"],   key: "p"),
-        (command: Execute,                value: "thunar",       modifier: ["modkey", "Shift"],   key: "p"),
+        (command: Execute,                value: "thunar",       modifier: ["modkey", "Shift"],   key: "t"),
         (command: Execute,                value: "alacritty",    modifier: ["modkey"],            key: "Return"),
         (command: Execute,                value: "brave",        modifier: ["modkey"],            key: "b"),
         
