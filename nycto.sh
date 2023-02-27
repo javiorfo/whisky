@@ -1,7 +1,7 @@
 ##!/usr/bin/env bash
 # Author: Javier Orfo
 
-echo -e "\033[0;33m"
+echo -e "\033[0;37m"
 echo -e "  _   _            _     __        ____  __ "
 echo -e " | \ | |_   _  ___| |_ __\ \      / /  \/  |"
 echo -e " |  \| | | | |/ __| __/ _ \ \ /\ / /| |\/| |"
