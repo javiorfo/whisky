@@ -13,11 +13,8 @@ leftwm-command "LoadTheme $SCRIPTPATH/theme.ron"
 
 #set background
 if [ -x "$(command -v feh)" ]; then
-#   feh --bg-scale $SCRIPTPATH/talisker.webp
-#   feh --bg-scale $SCRIPTPATH/single-malt.jpg
-  feh --bg-scale $SCRIPTPATH/ardbeg.jpg
+  feh --bg-scale $HOME/.config/leftwm/images/ardbeg.jpg
 fi
-
 
 index=0
 monitors="$(polybar -m | sed s/:.*//)"
