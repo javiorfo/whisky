@@ -11,7 +11,7 @@ $ git clone https://github.com/javiorfo/nyctowm
 $ cd nyctowm
 $ ./nycto.sh
 ```
-- `./nycto.sh` will install **Ubuntu Mono Nerd Font** (if not installed), set **00-keyboard.conf** with LATAM distribution (if you like), and it will install lefwm (from AUR) and polybar (among others).
+- `./nycto.sh` will install **Ubuntu Mono Nerd Font** (if not installed), set **00-keyboard.conf** with LATAM distribution (if you like), and it will install [Leftwm](https://github.com/leftwm/leftwm) (from AUR) and [Polybar](https://github.com/polybar/polybar) (among others).
 
 ## Screenshots
 ### Desktop Computer
