@@ -1,5 +1,5 @@
-# nyctowm
-*:new_moon: nyctowm is a nyctophilliac window manager under Arch Linux with Leftwm and Polybar.*
+# left
+*:new_moon: dark Leftwm and Polybar under Arch Linux.*
 
 ## Caveats
 - nyctowm needs [yay](https://github.com/Jguer/yay) and several libraries to be installed (the installation script resolves this). 
@@ -7,11 +7,11 @@
 
 ## Installation
 ```console
-$ git clone https://github.com/javiorfo/nyctowm
-$ cd nyctowm
-$ ./nycto.sh
+$ git clone https://github.com/javiorfo/left
+$ cd left
+$ ./install.sh
 ```
-- `./nycto.sh` will install **Ubuntu Mono Nerd Font** (if not installed), set **00-keyboard.conf** with LATAM distribution (if you like), and it will install [Leftwm](https://github.com/leftwm/leftwm) (from AUR) and [Polybar](https://github.com/polybar/polybar) (among others).
+- `./install.sh` will install **Ubuntu Mono Nerd Font** (if not installed), set **00-keyboard.conf** with LATAM distribution (if you like), and it will install [Leftwm](https://github.com/leftwm/leftwm) (from AUR) and [Polybar](https://github.com/polybar/polybar) (among others).
 
 ## Screenshots
 ### Desktop Computer
