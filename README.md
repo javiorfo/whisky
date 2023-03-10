@@ -1,5 +1,5 @@
 # whisky
-*:tumbler_glass: Whisky is a blend made by Leftwm and Polybar under Arch Linux.*
+*:tumbler_glass: Whisky is a blend made with Leftwm and Polybar under Arch Linux.*
 
 ## Caveats
 - whisky needs [yay](https://github.com/Jguer/yay) and several libraries to be installed (the installation script resolves this). 
